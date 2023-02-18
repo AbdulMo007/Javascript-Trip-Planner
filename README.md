@@ -1,2 +1,2 @@
 # Javascript-Trip-Planner
-create variables, store values, and calculate trip statistic
+Change values and calculate your trip statistics in JS.
